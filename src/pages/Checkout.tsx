@@ -1,8 +1,8 @@
-import Checkout from '@/components/containers/home-two/checkout'
+import Checkout from '@/components/containers/home-two/Checkout'
 import Layout from '@/components/layout/Layout'
 import React from 'react'
 
-const checkkout = () => {
+const Checkout = () => {
   return (
   <Layout>
     <Checkout/>
@@ -10,5 +10,5 @@ const checkkout = () => {
   )
 }
 
-export default checkkout
+export default Checkout
 
