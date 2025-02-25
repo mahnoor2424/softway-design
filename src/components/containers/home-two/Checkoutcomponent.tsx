@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Checkout = () => {
+const Checkoutcomponent = () => {
   return (
     <div>
       kashaf
@@ -8,4 +8,4 @@ const Checkout = () => {
   )
 }
 
-export default Checkout
+export default Checkoutcomponent
